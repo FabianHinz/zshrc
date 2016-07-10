@@ -1,3 +1,5 @@
+deprecated. - [current version](/naibaf0/dotfiles)
+
 My ZSH configuration file
 =========================
 
